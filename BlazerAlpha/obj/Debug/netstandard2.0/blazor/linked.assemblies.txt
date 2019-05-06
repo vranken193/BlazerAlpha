@@ -1,0 +1,15 @@
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\BlazerAlpha.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\vrank\source\repos\BlazerAlpha\BlazerAlpha\obj\Debug\netstandard2.0\blazor\linker\BlazerAlpha.pdb
